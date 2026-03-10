@@ -18,6 +18,7 @@ Link:https://github.com/GayithriPallela/Sales_Dashboard.
  
  <img width="1191" height="589" alt="Preview-1" src="https://github.com/user-attachments/assets/837089bc-0b58-41b3-b9f1-9dd3649cd0a4" />
 
- <img width="1187" height="646" alt="Preview-2" src="https://github.com/user-attachments/assets/1f372054-25ac-44f2-94fd-02dcb698eea4" />
+<img width="1187" height="297" alt="Preview-2" src="https://github.com/user-attachments/assets/7c268138-6928-476c-b322-062a25aa4a03" />
+
 
 
