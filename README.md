@@ -14,4 +14,7 @@ Link: https://github.com/GayithriPallela/Covid_Data_Analysis
 
 ### 3. Sales Dashboard (Tableau)
 Interactive Tableau dashboard showing Sales trends.
-Link:https://github.com/GayithriPallela/Sales_Dashboard
+Link:https://github.com/GayithriPallela/Sales_Dashboard.
+ Preview :
+ <img width="1191" height="589" alt="Preview-1" src="https://github.com/user-attachments/assets/837089bc-0b58-41b3-b9f1-9dd3649cd0a4" />
+
