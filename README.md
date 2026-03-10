@@ -12,6 +12,6 @@ Link: https://github.com/GayithriPallela/Video-Game-Sales-Analysis
 SQL queries used to explore COVID cases, deaths, and vaccinations.
 Link: https://github.com/GayithriPallela/Covid_Data_Analysis
 
-### 3. COVID Dashboard (Tableau)
-Interactive Tableau dashboard showing COVID trends.
-Link: https://github.com/yourusername/tableau-dashboard
+### 3. Sales Dashboard (Tableau)
+Interactive Tableau dashboard showing Sales trends.
+Link:https://github.com/GayithriPallela/Sales_Dashboard
